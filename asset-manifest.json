@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Ratan-Covid-Stats/static/css/main.1e330c65.css",
-    "main.js": "/Ratan-Covid-Stats/static/js/main.ff1c6b44.js",
+    "main.js": "/Ratan-Covid-Stats/static/js/main.1aa0da73.js",
     "index.html": "/Ratan-Covid-Stats/index.html",
     "main.1e330c65.css.map": "/Ratan-Covid-Stats/static/css/main.1e330c65.css.map",
-    "main.ff1c6b44.js.map": "/Ratan-Covid-Stats/static/js/main.ff1c6b44.js.map"
+    "main.1aa0da73.js.map": "/Ratan-Covid-Stats/static/js/main.1aa0da73.js.map"
   },
   "entrypoints": [
     "static/css/main.1e330c65.css",
-    "static/js/main.ff1c6b44.js"
+    "static/js/main.1aa0da73.js"
   ]
 }

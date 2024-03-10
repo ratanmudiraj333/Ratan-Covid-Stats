@@ -1,70 +1,15 @@
-# Getting Started with Create React App
+A covid dashboard which displays covid statistics of different countries around the world. Based on (No. of cases, No. of deaths, No. of recovery, Citizen’s vaccination rate, Covid Phases, Cities with high rate of virus & Infected and recovered rate). Completely responsive webpage for different screen sizes. Developed using HTML, CSS (Library: Bootstrap) & JavaScript (Library: ReactJS).
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Screen shots
 
-## Available Scripts
+![image](https://github.com/ratanmudiraj333/Ratan-Covid-Stats/assets/121163791/34818c25-c44f-4965-80e8-60e1472e9ab5)
 
-In the project directory, you can run:
+![image](https://github.com/ratanmudiraj333/Ratan-Covid-Stats/assets/121163791/4ac1cc71-a342-42fe-935e-a461d2fdedd1)
 
-### `npm start`
+![image](https://github.com/ratanmudiraj333/Ratan-Covid-Stats/assets/121163791/4bcd40f9-689a-4730-9d36-1a9130684f71)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Mobile view
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+![image](https://github.com/ratanmudiraj333/Ratan-Covid-Stats/assets/121163791/c26d337c-21c1-4254-92a0-9afa50ddf4de)
 
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+![image](https://github.com/ratanmudiraj333/Ratan-Covid-Stats/assets/121163791/b483c825-9160-44f9-af09-9915cfbefb09)
